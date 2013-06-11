@@ -22,8 +22,6 @@
         Henry Ngoy
     </author>
 
-    <plugin name="InAppBrowser" value="org.apache.cordova.InAppBrowser" />
-    <plugin name="InAppBrowser" value="CDVInAppBrowser" />    
-    <plugin name="InAppBrowser" />
+    <preference name="phonegap-version" value="2.7.0" />
         
 </widget>
