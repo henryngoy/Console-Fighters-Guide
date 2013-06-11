@@ -1,6 +1,6 @@
 // JavaScript Document
 
-document.addEventListener("deviceReady", onDeviceReady, false);
+document.addEventListener("deviceready", onDeviceReady, false);
 
 function onDeviceReady() {
 	$('#charactermoves').click(function() {
