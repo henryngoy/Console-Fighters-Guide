@@ -1,7 +1,7 @@
 .ui-icon-video {
-	background-image: url(file:///henryngoy/School%20Files/Spring%20Quarter%202013/BIT%20271/Fighter%27s%20Guide%20App/Images/icon_video.png);
+	background-image: url(../Images/icon_video.png)
 }
 
-#mk2characters img {
-	text-align:center;
-}
+body {
+		text-align:center;
+	}

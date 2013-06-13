@@ -12,11 +12,32 @@
     <script src="childbrowser.js"></script>
 	<link rel="stylesheet" href="css/mystyles.css">
 </head>
+
 <body>
 
 
 <!-- Main Home Page -->
+	<div id="home"	data-role="page" data-theme="d"	data-title="View Source: Home">
 
+		<div data-role="content">
+			<img src="icon.fw.png" alt="Console Fighters Guide" width="300" height="300">
+            <h1> Select a game from the list below </h1>
+		</div>
+                
+        <div data-role="button">
+			<a href="#kimainhome" data-role="button" data-icon="star" >Killer Instinct</a>
+		</div>
+                
+		<div data-role="button">
+			<a href="#mk2mainhome" data-role="button" data-icon="star" >Mortal Kombat II</a>
+		</div>
+        
+        <div data-role="button">
+			<a href="#sf2mainhome" data-role="button" data-icon="star" >Street Fighter 2</a>
+		</div>
+                  
+        </div><!-- links -->
+	</div><!-- Main Home Page End -->
 
 
 
@@ -390,9 +411,7 @@
 			<div data-role="collapsible-set">
 				<div data-role="collapsible">
 					<h3>Mortal Kombat II Guide</h3>
-                        <ul>
-                        <li> <a id="charactermoves">Source for Character Moves</a></li>
-                                 
+                        <p id="charactermoves">Source for Character Moves</p>      
 				</div><!-- collapsible -->
 				
             <div data-role="collapsible-set">
