@@ -13,8 +13,8 @@ This app will allow the user to reference information on console fighting games 
 
 The current version of this app will contain the following games:
 
+  - Killer Instinct
   - Mortal Kombat 2
-  - Dead or Alive 4
   - Street Fighter II
 
 Future versions will expand and include additional games
