@@ -15,9 +15,6 @@ function onDeviceReady() {
 		window.open(encodeURI('http://www.mksecrets.net/mk2/eng/mk2-bios.php'), '_blank', 'location=yes');
 	});
 	
-}
-
-function onDeviceReady() {
 	$('#kicharactermoves').click(function() {
 		window.open(encodeURI('http://killerinstinct.gamebub.com/characters.php'), '_blank', 'location=yes');
 	});
